@@ -1,5 +1,6 @@
 {
   "vite": true,
+  "publicPath": "//asset-hz.oss-cn-beijing.aliyuncs.com/projects/personal-website-front",
   "plugins": [
     [
       "build-plugin-antd"
